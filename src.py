@@ -1,0 +1,12 @@
+pip install git+git://github.com/geopandas/geopandas.git
+pip install Shapely
+pip install pyproj
+pip install rasterio
+pip install earthpy
+pip install rioxarray
+pip install xarray
+pip install pycrs
+pip install affine
+pip install folium
+pip install mapclassify
+pip install pygeos
